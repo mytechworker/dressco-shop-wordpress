@@ -1,0 +1,70 @@
+2024-06-01T03:56:58+00:00 ERROR Authentication failed
+2024-06-01T08:49:34+00:00 ERROR Authentication failed
+2024-06-01T08:49:38+00:00 ERROR Authentication failed
+2024-06-01T08:49:49+00:00 INFO Called process_payment with params order_id 1890
+2024-06-01T08:49:49+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 1890
+2024-06-01T08:49:50+00:00 ERROR Key Id and Key Secret are required.
+2024-06-01T08:49:50+00:00 INFO getRazorpayPaymentParams 1890
+2024-06-01T08:49:50+00:00 INFO createOrGetRazorpayOrderId 1890 and is1ccCheckout is set to no
+2024-06-01T08:49:50+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 1890 and is_magic_checkout_order is set to no
+2024-06-01T08:49:50+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id1890
+2024-06-01T08:49:50+00:00 INFO Called createRazorpayOrderId with params orderId 1890 and sessionKey razorpay_order_id1890
+2024-06-01T08:49:50+00:00 INFO Called getOrderCreationData with params orderId 1890
+2024-06-01T08:49:50+00:00 INFO Called getOrderCreationData with params orderId 1890 and is1ccOrder is set to no
+2024-06-01T08:49:50+00:00 INFO For order 1890
+2024-06-01T08:49:50+00:00 INFO {"receipt":"1890","amount":310000,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"1890"}}
+2024-06-01T08:49:50+00:00 INFO rzp order error Authentication failed
+2024-06-01T08:51:05+00:00 ERROR Authentication failed
+2024-06-01T08:51:10+00:00 ERROR Authentication failed
+2024-06-01T08:51:26+00:00 ERROR Authentication failed
+2024-06-01T08:51:31+00:00 ERROR Authentication failed
+2024-06-01T08:52:09+00:00 ERROR Authentication failed
+2024-06-01T08:52:10+00:00 ERROR Authentication failed
+2024-06-01T08:52:21+00:00 ERROR Authentication failed
+2024-06-01T08:52:26+00:00 ERROR Authentication failed
+2024-06-01T08:52:27+00:00 ERROR Authentication failed
+2024-06-01T08:52:30+00:00 ERROR Authentication failed
+2024-06-01T08:52:39+00:00 ERROR Authentication failed
+2024-06-01T08:53:01+00:00 ERROR Authentication failed
+2024-06-01T09:20:09+00:00 ERROR Authentication failed
+2024-06-01T09:23:19+00:00 ERROR Authentication failed
+2024-06-01T09:23:43+00:00 INFO Trying to create one_cc_address_sync_cron
+2024-06-01T09:23:43+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2024-06-01T09:23:43+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2024-06-01T09:23:43+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2024-06-01T09:23:43+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2024-06-01T09:23:43+00:00 INFO create one_cc_plugin_sync_cron successful
+2024-06-01T09:23:54+00:00 INFO Trying to create one_cc_address_sync_cron
+2024-06-01T09:23:54+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2024-06-01T09:23:54+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2024-06-01T09:23:54+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2024-06-01T09:23:54+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2024-06-01T09:23:54+00:00 INFO create one_cc_plugin_sync_cron successful
+2024-06-01T09:23:57+00:00 ERROR Authentication failed
+2024-06-01T09:24:02+00:00 ERROR Authentication failed
+2024-06-01T09:24:08+00:00 ERROR Authentication failed
+2024-06-01T09:24:09+00:00 ERROR Authentication failed
+2024-06-01T09:24:32+00:00 ERROR Authentication failed
+2024-06-01T09:25:17+00:00 ERROR Authentication failed
+2024-06-01T09:25:24+00:00 ERROR Authentication failed
+2024-06-01T09:25:27+00:00 ERROR Authentication failed
+2024-06-01T09:26:19+00:00 ERROR Authentication failed
+2024-06-01T09:26:22+00:00 ERROR Authentication failed
+2024-06-01T09:26:27+00:00 ERROR Authentication failed
+2024-06-01T09:26:38+00:00 ERROR Authentication failed
+2024-06-01T09:27:06+00:00 ERROR Authentication failed
+2024-06-01T09:29:20+00:00 ERROR Authentication failed
+2024-06-01T09:29:40+00:00 ERROR Authentication failed
+2024-06-01T09:30:02+00:00 ERROR Authentication failed
+2024-06-01T09:30:26+00:00 ERROR Authentication failed
+2024-06-01T09:30:49+00:00 ERROR Authentication failed
+2024-06-01T09:31:11+00:00 ERROR Authentication failed
+2024-06-01T09:32:33+00:00 ERROR Authentication failed
+2024-06-01T09:32:34+00:00 ERROR Authentication failed
+2024-06-01T09:32:44+00:00 ERROR Authentication failed
+2024-06-01T09:33:55+00:00 ERROR Authentication failed
+2024-06-01T09:33:56+00:00 ERROR Authentication failed
+2024-06-01T09:33:58+00:00 ERROR Authentication failed
+2024-06-01T15:09:34+00:00 ERROR Authentication failed
+2024-06-01T15:27:28+00:00 ERROR Authentication failed
+2024-06-01T16:11:16+00:00 ERROR Authentication failed
